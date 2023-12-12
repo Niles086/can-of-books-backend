@@ -26,17 +26,15 @@ Clone this repo to your own account with the green "Use this template" button. T
 
 ## Change Log
 
-Name of feature: ________________________________
+Name of feature: Schema
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3 hours
 
-Start time: _____
+Start time: 1700
 
-Finish time: _____
+Finish time: 1925
 
-Actual time needed to complete: _____
-
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+Actual time needed to complete: 2/30 Hours
 
 ## Estimates
 <!-- See below -->
