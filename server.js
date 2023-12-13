@@ -7,7 +7,7 @@ const { getBooks, newBook , getBooksID, deleteBooksID, updateBookId} = require('
 const app = express();
 app.use(cors());
 app.use(express.json());
-mongoose.connect('mongodb://localhost:27017/books');
+mongoose.connect('mongodb+srv://dewandth:Apple123@can-of-books-backend.9wuprst.mongodb.net/?retryWrites=true&w=majority');
 
 const PORT = process.env.PORT || 3000;
 
